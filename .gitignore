@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.netlify
+*.tsbuildinfo
+.env*.local
+.vercel
+.DS_Store
+# leftovers from earlier hosting attempts
+deploy.bat
+netlify-deploy.bat
+netlify-publish.bat
+.vercelignore
